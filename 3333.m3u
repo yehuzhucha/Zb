@@ -26,14 +26,14 @@ https://cntv.sbs/live?auth=2307280808&id=cctv6
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317499504_976.png" group-title="央视", CCTV7
 https://cntv.sbs/live?auth=2307280808&id=cctv7
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317591967_800.png" group-title="央视", CCTV86
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317591967_800.png" group-title="央视", CCTV8
 http://123.53.178.13:8089/hls/8/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317693029_395.png" group-title="央视", CCTV9
 https://cntv.sbs/live?auth=2307280808&id=cctv9
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317816766_852.png" group-title="央视", CCTV10
-https://cntv.sbs/live?auth=2307280808&id=cctv10
+http://123.53.178.13:8089/hls/10/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630318059182_503.png" group-title="央视", CCTV12
