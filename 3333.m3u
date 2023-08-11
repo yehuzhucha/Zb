@@ -14,7 +14,7 @@ https://pi.0472.org/live/v6.php?auth=202308110958&id=220
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317071525_147.png" group-title="央视", CCTV3
 https://pi.0472.org/live/v6.php?auth=202308110958&id=186
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317071525_147.png" group-title="电影", 小川侃电影
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/yehuzhucha/Zb/main/fotor_2023-8-11_14_24_47.png" group-title="电影", 小川侃电影
 http://mmitv.top/pltv/huya.php?id=15870999
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317179081_268.png" group-title="央视", CCTV4
