@@ -24,7 +24,7 @@ https://cntv.sbs/tv/ipv6.php?id=221
 https://cntv.sbs/tv/ipv6.php?id=187
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317352843_245.png" group-title="央视", CCTV6
-https://cntv.sbs/tv/ipv6.php?id=188
+http://27.191.170.26:7000/rtp/239.254.200.15:6000
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317499504_976.png" group-title="央视", CCTV7
 https://cntv.sbs/tv/ipv6.php?id=236
