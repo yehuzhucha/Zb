@@ -1,56 +1,56 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.zhiboba.fun/pindao/images/tjws.jpg" group-title="卫视", 2023.8.11 一次
-https://cntv.sbs/tv/ipv6.php?id=036
+https://cntv.sbs/tv?auth=230830&id=tjws
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.zhiboba.fun/pindao/images/tjws.jpg" group-title="卫视", 天津卫视
-https://cntv.sbs/tv/ipv6.php?id=036
+https://cntv.sbs/tv?auth=230830&id=tjws
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/24/1629793958089_254.png" group-title="央视", CCTV1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317410309_640.png" group-title="央视", CCTV2
-https://cntv.sbs/tv/ipv6.php?id=220
+https://cntv.sbs/tv?auth=230830&id=cctv2
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317071525_147.png" group-title="央视", CCTV3
-https://cntv.sbs/tv/ipv6.php?id=186
+https://cntv.sbs/tv?auth=230830&id=cctv3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/yehuzhucha/Zb/main/fotor_2023-8-11_14_24_47.png" group-title="电影", 小川侃电影
 http://mmitv.top/pltv/huya.php?id=15870999
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317179081_268.png" group-title="央视", CCTV4
-https://cntv.sbs/tv/ipv6.php?id=221
+https://cntv.sbs/tv?auth=230830&id=cctv4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317272399_699.png" group-title="央视", CCTV5
-https://cntv.sbs/tv/ipv6.php?id=187
+https://cntv.sbs/tv?auth=230830&id=cctv5
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317352843_245.png" group-title="央视", CCTV6
-http://jasoncao.asuscomm.com:8888/udp/239.45.1.70:5140
+https://cntv.sbs/tv?auth=230830&id=cctv6
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317499504_976.png" group-title="央视", CCTV7
-https://cntv.sbs/tv/ipv6.php?id=236
+https://cntv.sbs/tv?auth=230830&id=cctv7
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317591967_800.png" group-title="央视", CCTV8
 http://123.53.178.13:8089/hls/8/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317693029_395.png" group-title="央视", CCTV9
-https://cntv.sbs/tv/ipv6.php?id=237
+https://cntv.sbs/tv?auth=230830&id=cctv9
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317816766_852.png" group-title="央视", CCTV10
 http://123.53.178.13:8089/hls/10/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630318059182_503.png" group-title="央视", CCTV12
-https://cntv.sbs/tv/ipv6.php?id=239
+https://cntv.sbs/tv?auth=230830&id=cctv12
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630318228423_39.png" group-title="央视", CCTV13
-https://cntv.sbs/tv/ipv6.php?id=328
+https://cntv.sbs/tv?auth=230830&id=cctv13
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630318388636_48.png" group-title="央视", CCTV15
-https://cntv.sbs/tv/ipv6.php?id=338
+https://cntv.sbs/tv?auth=230830&id=cctv15
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635162221833_499.png" group-title="央视", CCTV16
-https://cntv.sbs/tv/ipv6.php?id=258
+https://cntv.sbs/tv?auth=230830&id=cctv16
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630318594256_760.png" group-title="央视", CCTV5+
@@ -65,6 +65,23 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
+#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳",莲花卫视
+https://cntv.sbs/tv/lhws.php
+
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="港澳台",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="港澳台",华视新闻
+https://cntv.sbs/4gtv?id=4gtv-4gtv052
+
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="港澳台",民视新闻台
+https://cntv.sbs/4gtv?id=litv-ftv13
+
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" group-title="港澳台",中视新闻台
+https://cntv.sbs/4gtv?id=4gtv-4gtv074
+
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港澳台",中天新闻台
+https://cntv.sbs/4gtv?id=4gtv-4gtv009
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/24/1629793958089_254.png" group-title="港澳台", 1
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
