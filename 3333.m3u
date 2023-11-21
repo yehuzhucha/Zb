@@ -9,45 +9,45 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317410309_640.png" group-title="央视", CCTV2
-https://cntv.sbs/tv?auth=230830&id=cctv2
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317071525_147.png" group-title="央视", CCTV3
-https://cntv.sbs/tv?auth=230830&id=cctv3
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/yehuzhucha/Zb/main/fotor_2023-8-11_14_24_47.png" group-title="电影", 小川侃电影
 http://mmitv.top/pltv/huya.php?id=15870999
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317179081_268.png" group-title="央视", CCTV4
-https://cntv.sbs/tv?auth=230830&id=cctv4
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317272399_699.png" group-title="央视", CCTV5
-https://cntv.sbs/tv?auth=230830&id=cctv5
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317352843_245.png" group-title="央视", CCTV6
-https://cntv.sbs/tv?auth=230830&id=cctv6
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317499504_976.png" group-title="央视", CCTV7
-https://cntv.sbs/tv?auth=230830&id=cctv7
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317591967_800.png" group-title="央视", CCTV8
 http://123.53.178.13:8089/hls/8/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317693029_395.png" group-title="央视", CCTV9
-https://cntv.sbs/tv?auth=230830&id=cctv9
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317816766_852.png" group-title="央视", CCTV10
-http://123.53.178.13:8089/hls/10/index.m3u8
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630318059182_503.png" group-title="央视", CCTV12
-https://cntv.sbs/tv?auth=230830&id=cctv12
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630318228423_39.png" group-title="央视", CCTV13
-https://cntv.sbs/tv?auth=230830&id=cctv13
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630318388636_48.png" group-title="央视", CCTV15
-https://cntv.sbs/tv?auth=230830&id=cctv15
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635162221833_499.png" group-title="央视", CCTV16
 https://cntv.sbs/tv?auth=230830&id=cctv16
