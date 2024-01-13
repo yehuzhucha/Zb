@@ -107,7 +107,13 @@ http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39af
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000001000018044/index.m3u8?channel-id=wasusyt&Contentid=6000000001000018044&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="游戏", 游戏风云
-https://cntv.sbs/tv/ipv6.php?id=192
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="游戏", 哒啵电竞
+http://[2409:8087:7000:20: :4]:80/dbiptv.sn.chinamobile.com/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="游戏", 哒啵赛事
+http://[2409:8087:7000:20::4]:80/dbiptv. sn.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/24/1629793958089_254.png" group-title="港澳台", 2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
